@@ -1,0 +1,10 @@
+
+.background-image {
+    background-image: url('../../images/14577184552761.png'), url('../../images/14577184552762.png');
+    background-size: 50% 100%, 150%;
+    background-position: left, left top;
+    background-repeat: no-repeat, no-repeat;
+  }
+  .bg-custom-blue {
+    background-color: #2684FF;
+}
